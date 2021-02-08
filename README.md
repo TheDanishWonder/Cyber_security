@@ -4,8 +4,6 @@
 
 |Week|Topic|Hand-in|
 |--|--|--|
-|Week|Topic|Hand-in|
-|--|--|--|
 |Week 5<br/>01-02-2021|Getting started, Python language features|[Hand-in 1](https://github.com/TheDanishWonder/Cyber_security/tree/main/session01)|
 |Week 6<br/>08-02-2021|Whirlwind, Lists, Loops, Cond. Stmts., Functions, Modules, Dicts|[Hand-in 2](https://github.com/TheDanishWonder/4sem_Python/tree/master/Assignments/Week%206%20-%20Whirlwind%2C%20Lists%2C%20Loops%2C%20Cond.%20Stmts.%2C%20Functions%2C%20Modules%2C%20Dicts)|
 |Week 7<br/>15-02-2021|Files, CLI, OO, Exceptions, Plotting|[Hand-in 3](https://github.com/TheDanishWonder/4sem_Python/tree/master/Assignments/Week%207%20-%20Files%2C%20CLI%2C%20OO%2C%20Exceptions%2C%20Plotting)|
